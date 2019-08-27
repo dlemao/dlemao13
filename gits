@@ -1,0 +1,22 @@
+// entrar na pasta dos arquivos, clicar com o botão direito, depois Git Bash Here. Vai abrir o dos e colocar os comandos.
+1090481911008@Lab1-07 MINGW64 ~/Desktop/js
+$ git init
+Initialized empty Git repository in C:/Users/1090481911008/Desktop/js/.git/
+1090481911008@Lab1-07 MINGW64 ~/Desktop/js (master)
+$ git status
+On branch master
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+1090481911008@Lab1-07 MINGW64 ~/Desktop/js (master)
+$ git add .
+1090481911008@Lab1-07 MINGW64 ~/Desktop/js (master)
+$ git status
+On branch master
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+
+//toda vez que alterar um arquivo usar o comando git add .
