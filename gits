@@ -39,6 +39,7 @@ After doing this, you may fix the identity used for this commit with:
  create mode 100644 exercicios.html
  create mode 100644 js.js
  
+ $ git push https://github.com/dlemao/programasjs.git master
  
 
 
