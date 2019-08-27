@@ -18,5 +18,29 @@ On branch master
 No commits yet
 
 nothing to commit (create/copy files and use "git add" to track)
+// com o comando commit estamos confirmando a adição dos arquivos ao git.
+1090481911008@Lab1-07 MINGW64 ~/Desktop/js (master)
+$ git commit -m " Exercicio 07 "
+[master (root-commit) 3242b51]  Exercicio 07
+ Committer: DANIEL RIBEIRO HILGEMANN <1090481911008@fatec.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 25 insertions(+)
+ create mode 100644 exercicios.html
+ create mode 100644 js.js
+ 
+ 
+
+
 
 //toda vez que alterar um arquivo usar o comando git add .
